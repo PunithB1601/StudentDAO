@@ -1,0 +1,17 @@
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Build output
+build/
+bin/
+
+# IDE specific
+*.iml
+.idea/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
